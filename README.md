@@ -9,3 +9,4 @@ don't have to prefix `SPARK_HOME/bin/spark-submit` for these standalone applicat
 For all the other chapters, we have provided notebooks in the [notebooks](notebooks) folder. We have also included notebook equivalents for a few of the stand-alone Spark applications in the aforementioned chapters.
 
 Have Fun, Cheers!
+contains scala/python
